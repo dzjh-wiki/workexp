@@ -8,7 +8,7 @@
     
 -----
 * [棋牌游戏](boardgame/README.md)
-    * [规则库](rulelibrary/README.md)
-    * [行为树](behaviortree/README.md)
+    * [规则库](boardgame/rulelibrary/README.md)
+    * [行为树](boardgame/behaviortree/README.md)
     * [麻将](boardgame/mahjong/README.md)
         * [胡牌算法](boardgame/mahjong/HUPAI.md)
