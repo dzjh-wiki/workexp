@@ -5,6 +5,9 @@
 -----
 * [常见问题与解决方案](problemsandsolutions/README.md)
     * [常见Bug合集](problemsandsolutions/bugcollection/README.md)
+
+* [常用技巧](skills/README.md)
+    * [日志技巧](skills/log_skill/README.md)
     
 -----
 * [棋牌游戏](boardgame/README.md)
