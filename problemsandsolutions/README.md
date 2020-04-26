@@ -5,3 +5,4 @@
 
 **主要内容：**  
   - [常见Bug合集](bugcollection/README.md)
+  * [重连数据异常问题](abnormal_reconnection_data.md)
